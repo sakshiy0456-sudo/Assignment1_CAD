@@ -1,4 +1,4 @@
-first_number=4
-second_number=5
+first_number=int(input("Enter the first number:"))
+second_number=int(input("Enter the second number:"))
 sum=first_number+second_number
 print("The Sum is:",sum)
